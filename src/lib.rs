@@ -40,6 +40,7 @@ pub mod array;
 pub mod convert;
 pub mod error;
 pub mod npyffi;
+pub mod npyiter;
 mod slice_box;
 pub mod types;
 
